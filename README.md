@@ -3,7 +3,7 @@ Oblivity - private roblox script executor for the x64 client.\
 \
 Oblivity Internal - roblox internal closet cheat that is currently being developed.\
 \
-OAuth - authentication service for my projects.\
+OAuth - authentication service for my projects.
 
 
 ## Programming Languages
