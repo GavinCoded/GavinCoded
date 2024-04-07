@@ -1,6 +1,6 @@
-## Hey
+## Hey 👋
 I'm Gavin / GavinStrikes
-I research cybersecurity
+a cybersecurity researcher from Atlanta Georgia
 If you wish to contact me, you can do so with this email: contact@gavinstrikes.cloud.
 
 
