@@ -6,11 +6,6 @@ My email is temporarily down due to cloudflare being retarded
 
 
 
-## Programming Languages (I'm bad at all)
-C++
-Python
-C
-C#
 
 
 
