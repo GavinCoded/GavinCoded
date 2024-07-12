@@ -3,17 +3,13 @@
 I'm Gavin / GavinStrikes
 
 # 🚀 Connect with Me
-[Email Me](place2)
+[📧 Email Me](mailto:contact@gavinstrikes.wtf)
+[🌐 Portfolio](https://gavinstrikes.wtf/)
 
-    🌐 Portfolio
 
-🌱 Currently Learning
+# 🌱 Currently Learning
 🦀 Rust
 💻 Frontend Development
 
-🎨 Check Out My Work
 
-  Project 1
-    Project 2
-🌐 Portfolio
 
