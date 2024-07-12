@@ -2,7 +2,7 @@
 
 I'm Gavin / GavinStrikes
 
-🚀 Connect with Me
+# 🚀 Connect with Me
 [Email Me](place2)
 
     🌐 Portfolio
