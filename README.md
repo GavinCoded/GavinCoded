@@ -6,7 +6,7 @@ I'm Gavin / GavinStrikes
 📧 [Email Me](mailto:contact@gavinstrikes.wtf)  
 🌐 [Portfolio](https://gavinstrikes.wtf/)  
 
-# 🌱 Currently Learning
-☕ Java
+# 🌱 Currently Learning  
+☕ Java  
 🦀 Rust  
-💻 Frontend Development  
+💻 Frontend
