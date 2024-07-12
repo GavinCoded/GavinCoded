@@ -3,20 +3,13 @@
 I'm Gavin / GavinStrikes
 
 🚀 Connect with Me
-<a href="url">Email Me</a>
+[Email Me](place2)
 
     🌐 Portfolio
 
 🌱 Currently Learning
-
-    🦀 Rust
-    💻 Frontend Development
-
-🔗 Links
-
-    Twitter
-    LinkedIn
-    GitHub
+🦀 Rust
+💻 Frontend Development
 
 🎨 Check Out My Work
 
