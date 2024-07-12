@@ -1,8 +1,8 @@
 # Hey there! 🎶
 
 I'm Gavin / GavinStrikes
-🚀 Connect with Me
 
+🚀 Connect with Me
 <a href="url">Email Me</a>
 
     🌐 Portfolio
