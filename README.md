@@ -1,14 +1,15 @@
-## Hello 🎶
+<div align="center">
+  <img src="https://gavinstrikes.wtf/img.png" alt="GavinStrikes Banner" width="100%" />
+</div>
+Hey there! 🎶
+
 I'm Gavin / GavinStrikes
-If you wish to contact me, you can do so via email: contact@gavinstrikes.wtf
+🚀 Connect with Me
 
-Learning: Rust & Frontend
+    📧 Email Me
+    🌐 Portfolio
 
+🌱 Currently Learning
 
-
-
-
-
-
-
-
+    🦀 Rust
+    💻 Frontend Development
