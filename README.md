@@ -13,7 +13,7 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on
 ## 🌱 Currently Learning
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-![Frontend Development](https://img.shields.io/badge/Frontend%20Development-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ---
 
