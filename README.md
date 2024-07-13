@@ -6,7 +6,7 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on
 
 ## 🚀 Contact Me
 [![Email Me](https://img.shields.io/badge/Email%20Me-D14836?logo=gmail&logoColor=white&style=flat)](mailto:contact@gavinstrikes.wtf)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=internet-explorer&logoColor=white&style=flat)](https://gavinstrikes.wtf/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=web&logoColor=white&style=flat)](https://gavinstrikes.wtf/)  
 
 ---
 
