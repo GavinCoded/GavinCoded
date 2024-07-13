@@ -20,6 +20,3 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on
 ## 📈 GitHub Stats
 ![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinStrikes&show_icons=true&theme=radical)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=GavinStrikes&color=blue&style=for-the-badge)
