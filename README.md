@@ -2,7 +2,7 @@
 
 I'm Gavin, also known as GavinStrikes, an amateur developer who works on random projects!
 
-# 🚀 Connect with Me  
+# 🚀 Contact me
 📧 [Email Me](mailto:contact@gavinstrikes.wtf)  
 🌐 [Portfolio](https://gavinstrikes.wtf/)  
 
