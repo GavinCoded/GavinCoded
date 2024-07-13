@@ -18,4 +18,4 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on
 ---
 
 ## 📈 GitHub Stats
-![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinStrikes&show_icons=true&theme=radical)
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinCodeds&show_icons=true&theme=radical)
