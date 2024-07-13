@@ -5,17 +5,15 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on
 ---
 
 ## 🚀 Contact Me
-📧 [Email Me](mailto:contact@gavinstrikes.wtf)  
-🌐 [Portfolio](https://gavinstrikes.wtf/)  
-💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
-🐦 [Twitter](https://twitter.com/yourtwitter)  
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?logo=gmail&logoColor=white&style=flat)](mailto:contact@gavinstrikes.wtf)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=internet-explorer&logoColor=white&style=flat)](https://gavinstrikes.wtf/)  
 
 ---
 
 ## 🌱 Currently Learning
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
-![Frontend Development](https://img.shields.io/badge/-Frontend%20Development-61DAFB?logo=react&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
+![Frontend Development](https://img.shields.io/badge/Frontend%20Development-61DAFB?logo=react&logoColor=white&style=flat)
 
 ---
 
