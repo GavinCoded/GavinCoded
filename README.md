@@ -15,5 +15,4 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
 ![Frontend Development](https://img.shields.io/badge/Frontend%20Development-61DAFB?logo=react&logoColor=white&style=flat)
 
----
 <p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"/></p>
