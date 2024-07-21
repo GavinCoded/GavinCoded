@@ -16,7 +16,4 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on
 ![Frontend Development](https://img.shields.io/badge/Frontend%20Development-61DAFB?logo=react&logoColor=white&style=flat)
 
 ---
-
-## 📈 GitHub Stats
-![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinCoded&show_icons=true&theme=radical)
 <p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"/></p>
