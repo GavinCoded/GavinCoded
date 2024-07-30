@@ -19,6 +19,6 @@ If you have any questions or want to get in touch, feel free to reach out throug
 ## 🌱 Currently Learning
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
-![Frontend Development](https://img.shields.io/badge/Frontend%20Development-61DAFB?logo=react&logoColor=white&style=flat)
+![Frontend](https://img.shields.io/badge/Frontend-61DAFB?logo=react&logoColor=white&style=flat)
 
 <p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"/></p>
