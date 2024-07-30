@@ -4,7 +4,7 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on
 
 ---
 
-## 🚀 Contact Me
+## 💬 Contact Me
 
 If you have any questions or want to get in touch, feel free to reach out through any of the following platforms:
 
