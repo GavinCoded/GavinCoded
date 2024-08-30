@@ -4,7 +4,7 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on
 
 ---
 
-## 💬 Contact Me
+## Contact Me
 
 If you have any questions or want to get in touch, feel free to reach out through any of the following platforms:
 
@@ -16,7 +16,7 @@ If you have any questions or want to get in touch, feel free to reach out throug
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
 ![Frontend](https://img.shields.io/badge/Frontend-61DAFB?logo=react&logoColor=white&style=flat)
