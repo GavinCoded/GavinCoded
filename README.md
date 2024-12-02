@@ -16,10 +16,12 @@ If you have any questions or want to get in touch, feel free to reach out throug
 
 ---
 
-## currently Learning
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+## currently learning
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat)  
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
+
 
 
 <p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"/></p>
