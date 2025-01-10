@@ -21,4 +21,4 @@ If you have any questions or want to get in touch, feel free to reach out throug
 
 
 
-<p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"/></p>
+
