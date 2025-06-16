@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on random projects!
+I'm **Gavin**, also known as **GavinStrikes**, an amateur 18 year old developer who works on random projects!
 
 ---
 
