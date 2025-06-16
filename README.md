@@ -35,7 +35,6 @@ If you have any questions or want to get in touch, feel free to reach out throug
 ## 💻 I Use
 
 I use [**Fedora Linux Workstation Edition**](https://fedoraproject.org/workstation/) as my main operating system, along with the [**GNOME desktop environment**](https://www.gnome.org/).  
-Here's a [picture of my desktop](https://i.imgur.com/N1UFOQW.png)!
 
 When I need Windows, I use **Microsoft Windows 10 LTSC 2021**.
 
