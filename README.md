@@ -20,6 +20,8 @@ If you have any questions or want to get in touch, feel free to reach out throug
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
 
 ---
 
@@ -36,4 +38,3 @@ If you have any questions or want to get in touch, feel free to reach out throug
 
 I use [**Fedora Linux Workstation Edition**](https://fedoraproject.org/workstation/) as my main operating system with the [**GNOME desktop environment**](https://www.gnome.org/).  
 When I need Windows, I use **Microsoft Windows 10 LTSC 2021**.
-
