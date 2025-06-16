@@ -31,10 +31,12 @@ If you have any questions or want to get in touch, feel free to reach out throug
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=flat)
 ![Fedora Server](https://img.shields.io/badge/Fedora_Server-294172?logo=fedora&logoColor=white&style=flat)
-
 ---
 
 ## 💻 I Use
 
-I use [**Fedora Linux Workstation Edition**](https://fedoraproject.org/workstation/) as my main operating system with the [**GNOME desktop environment**](https://www.gnome.org/).  
+I use [**Fedora Linux Workstation Edition**](https://fedoraproject.org/workstation/) as my main operating system, along with the [**GNOME desktop environment**](https://www.gnome.org/).  
 When I need Windows, I use **Microsoft Windows 10 LTSC 2021**.
+
+My preferred IDEs are JetBrains IDEs primarily **WebStorm**, **IntelliJ IDEA**, and **CLion**.  
+For quick text editing or small file changes, I use **Sublime Text**.
