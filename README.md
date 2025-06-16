@@ -20,9 +20,8 @@ If you have any questions or want to get in touch, feel free to reach out throug
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
 
 ## i have some experience in  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat) Server  
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat)  
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=flat) & ![Fedora Server](https://img.shields.io/badge/Fedora_Server-294172?logo=fedora&logoColor=white&style=flat)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?logo=ubuntu&logoColor=white&style=flat) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=flat) ![Fedora Server](https://img.shields.io/badge/Fedora_Server-294172?logo=fedora&logoColor=white&style=flat)
+
 
 ## i use  
 Fedora Linux Workstation Edition as my main operating system with the GNOME desktop environment. When I need Windows, I use Microsoft Windows 10 LTSC 2021.
