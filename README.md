@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I'm **Gavin**, also known as **GavinStrikes**, an amateur 18 year old developer who works on random projects!
+I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on random projects!
 
 ---
 
@@ -8,8 +8,8 @@ I'm **Gavin**, also known as **GavinStrikes**, an amateur 18 year old developer 
 
 If you have any questions or want to get in touch, feel free to reach out through any of the following platforms:
 
-[![Email Me](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:contact@gavinstrikes.wtf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=flat)](https://gavinstrikes.wtf/)
+[![Email Me](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:contact@gavinstrikes.wtf)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=flat)](https://gavinstrikes.wtf/)  
 [![Discord](https://img.shields.io/badge/Discord-%40gavinstrikes-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/users/735581916887121943)
 
 ---
@@ -37,7 +37,9 @@ If you have any questions or want to get in touch, feel free to reach out throug
 ## 💻 I Use
 
 I use [**Fedora Linux Workstation Edition**](https://fedoraproject.org/workstation/) as my main operating system, along with the [**GNOME desktop environment**](https://www.gnome.org/).  
+Here's a [picture of my desktop](https://i.imgur.com/N1UFOQW.png)!
+
 When I need Windows, I use **Microsoft Windows 10 LTSC 2021**.
 
-My preferred IDEs are JetBrains IDEs primarily **WebStorm**, **IntelliJ IDEA**, and **CLion**.  
+My preferred IDEs are JetBrains IDEs — primarily **WebStorm**, **IntelliJ IDEA**, and **CLion**.  
 For quick text editing or small file changes, I use **Sublime Text**.
