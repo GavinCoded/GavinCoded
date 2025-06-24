@@ -32,7 +32,7 @@ If you have any questions or want to get in touch, feel free to reach out throug
 ![Fedora Server](https://img.shields.io/badge/Fedora_Server-294172?logo=fedora&logoColor=white&style=flat)
 
 ---
-## 💻 I Use
+## 💻 Misc
 
 I use [**Fedora Linux Workstation Edition**](https://fedoraproject.org/workstation/) as my main operating system, along with the [**GNOME desktop environment**](https://www.gnome.org/).  
 
