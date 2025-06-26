@@ -15,14 +15,11 @@ If you have any questions or want to get in touch, feel free to reach out throug
 
 ## 📘 Currently Learning
 
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
 
 ---
+
 
 ## 🧠 I Have Some Experience In
 
