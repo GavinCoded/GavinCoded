@@ -1,10 +1,10 @@
-# 👋 Hello
+# Hello!
 
 I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on random projects!
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 If you have any questions or want to get in touch, feel free to reach out through any of the following platforms:
 
@@ -13,7 +13,7 @@ If you have any questions or want to get in touch, feel free to reach out throug
 
 ---
 
-## 📘 Currently Learning
+## Currently Learning
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -21,7 +21,7 @@ If you have any questions or want to get in touch, feel free to reach out throug
 ---
 
 
-## 🧠 I Have Some Experience In
+## I Have Some Experience In
 
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?logo=ubuntu&logoColor=white&style=flat)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat)
@@ -31,7 +31,7 @@ If you have any questions or want to get in touch, feel free to reach out throug
 
 
 ---
-## 💻 Misc
+## Misc
 
 I use [**Fedora Linux Workstation Edition**](https://fedoraproject.org/workstation/) as my main operating system, along with the [**GNOME desktop environment**](https://www.gnome.org/).  
 
