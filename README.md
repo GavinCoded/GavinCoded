@@ -24,9 +24,11 @@ If you have any questions or want to get in touch, feel free to reach out throug
 ## 🧠 I Have Some Experience In
 
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?logo=ubuntu&logoColor=white&style=flat)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=flat)
 ![Fedora Server](https://img.shields.io/badge/Fedora_Server-294172?logo=fedora&logoColor=white&style=flat)
+
 
 ---
 ## 💻 Misc
