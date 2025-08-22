@@ -41,4 +41,4 @@ When I need Windows, I use **Microsoft Windows 10 LTSC 2021**.
 My preferred IDEs are JetBrains IDEs primarily **WebStorm**, **IntelliJ IDEA**, and **CLion**.  
 For quick text editing or small file changes, I use **Sublime Text**.
 
-I use **Mozilla Firefox** (don’t tell me to use Brave) as my primary web browser and have been using it for around 5 years.
+I use **Mozilla Firefox** as my primary web browser and have been using it for around 5 years.
