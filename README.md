@@ -1,4 +1,4 @@
-# Hello!
+# Hello
 
 I'm **Gavin**, also known as **GavinStrikes**, an amateur developer who works on random projects!
 
